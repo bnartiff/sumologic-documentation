@@ -409,4 +409,4 @@ If you modify your JSON manually after export, we recommend that you use [JSONLi
 2. Select **Import** from the options menu.
 3. In the **Content Import **dialog, enter **Name.** The item name must be unique with a folder. **Check your JSON before importing to make sure that there is no organization-specific content.** All content names in an organization must be unique. If the name is not unique, you will get an error that prevents you from importing the content.
 4. Paste the JSON you copied from the** JSON** dialog to the clipboard, or from the JSON file you downloaded.
-5. Click **Import**. The Import button is only available if you have pasted in a valid JSON.
+5. Click **Import**. The Import button is only available if you have pasted in a valid JSON. 
